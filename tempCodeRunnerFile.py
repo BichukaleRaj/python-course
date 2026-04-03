@@ -1,0 +1,5 @@
+f=open(r"C:\do not touch\coding\python\Python DSA basics\8 filesinputoutput\demo.txt","w+")
+# #f.write("abc")
+# print(f.read())
+# f.write("abc")
+# f.close()
